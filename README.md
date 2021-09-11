@@ -5,4 +5,3 @@ I am a desktop .net developer in [SMISExpert](https://smis-expert.com/). I compl
 - 🌱 I’m currently learning ASP.Net Core
 - 📫  Ask me anything on my [issues page](https://github.com/d1den/d1den/issues)  
 - ![d1den's GitHub stats](https://github-readme-stats.vercel.app/api?username=d1den&show_icons=true&theme=radical)  
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1den&theme=radical)
